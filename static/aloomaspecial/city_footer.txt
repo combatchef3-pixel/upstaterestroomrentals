@@ -1,0 +1,48 @@
+  <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is a porta urinal, and when should I rent one?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A porta urinal is a standalone urinal unit designed for high-volume, male-dominated crowds. They are excellent for large public events, concerts, and construction sites to reduce lines and increase efficiency</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I estimate the number of portable restrooms for my festival?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A good starting point is two portable restrooms for events per 100 guests for the first 3-4 hours. Add one unit per 100 for each additional 3-hour period. Always include ADA-compliant units.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the main benefit of a luxury portable toilet over a standard one?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The primary benefit of a luxury portable toilet is the inclusion of a flushing toilet and a handwashing station, which provides a much more comfortable and hygienic user experience similar to a permanent bathroom.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are fancy porta potties actually different from standard ones?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, a fancy porta potty rental typically offers upgrades like improved exterior and interior styling, better ventilation systems, and often a hands-free hand sanitizer dispenser, providing a noticeably nicer experience.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What makes a deluxe portable toilet suitable for long-term projects?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A deluxe portable toilet rental is built with more robust materials, offers greater interior space, and often includes a non-potable handwashing station, making it more comfortable and durable for weeks or months of use.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div> 
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
